@@ -1,6 +1,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galkinc/) 
 
-<img align="left" src="https://media1.tenor.com/m/VbZT8cyDTvUAAAAd/mafia-boss.gif" width="140px"/>
+<img align="left" src="https://media1.tenor.com/m/VbZT8cyDTvUAAAAd/mafia-boss.gif" width="130px"/>
 
 ### &nbsp;💫 About Me:
 &nbsp; Applied Data Scientist with focus in MLOPS and results delivery. <br /> 
