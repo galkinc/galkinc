@@ -3,9 +3,8 @@
 <img align="left" src="https://media1.tenor.com/m/VbZT8cyDTvUAAAAd/mafia-boss.gif" width="130px"/>
 
 ### &nbsp;💫 About Me:
-&nbsp; Applied Data Scientist with focus in MLOPS and results delivery. <br /> 
-&nbsp; Master of Data Science, Team Lead Experience. <br />
-&nbsp; Experience in R&D, data, and dataset products. <br />
+&nbsp; Ml Ingeneer and Applied Data Scientist. <br /> 
+&nbsp; Master of Data Science, Experience in R&D, data, and dataset products. <br />
 &nbsp; Passion to AI, data and business orientated valuable solutions.
 
 
