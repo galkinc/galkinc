@@ -1,7 +1,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galkinc/) 
 
-<img align="left" src="https://media1.tenor.com/m/VbZT8cyDTvUAAAAd/mafia-boss.gif" width="130px"/>
-
 ### &nbsp;💫 About Me:
 &nbsp; Ml Ingeneer and Applied Data Scientist. <br /> 
 &nbsp; Master of Data Science, Experience in R&D, data, and dataset products. <br />
