@@ -1,7 +1,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galkinc/) 
 
 ### &nbsp;💫 About Me:
-&nbsp; Ml Ingeneer and Applied Data Scientist. <br /> 
+&nbsp; ML Ingeneer and Applied AI Engineer. <br /> 
 &nbsp; Master of Data Science, Experience in R&D, data, and dataset products. <br />
 &nbsp; Passion to AI, data and business orientated valuable solutions.
 
