@@ -27,22 +27,25 @@ Background:
 
 ### 💻 Tech Stack:
 
-**Core**
+**Core**:
 Python · PyTorch
 
-**AI Systems**
+**AI Systems**:
 LLM systems and agents · Orchestration (LangGraph, ReAct)
 
-**Evaluation**
+**Evaluation**:
 LLM-based evaluation · Benchmarking · Simulation pipelines · Metrics design · latency / cost trade-offs
 
-**Retrieval & Memory**
+**Retrieval & Memory**:
 RAG · Vector search · Context management
 
-**Backend**
+**Applied ML**: 
+time-series forecasting · feature engineering · signal extraction
+
+**Backend**:
 FastAPI · gRPC · Docker
 
-**Cloud**
+**Cloud**:
 AWS · GCP
 
 <!--
