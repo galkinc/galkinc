@@ -3,7 +3,7 @@
 ### 💫 About Me
 
 Applied AI Engineer & Technical Product Manager.  
-Driven by a passion for pure engineering, rigorous R&D, and systems architecture. 
+Driven by a passion for pure engineering, rigorous R&D, and systems architecture.  
 I design and ship end-to-end AI systems - from research to production.
 
 **Focus areas:**
