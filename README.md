@@ -3,16 +3,18 @@
 ### 💫 About Me
 
 Applied AI Engineer & Technical Product Manager.  
-I design and ship AI systems — from research to production.
+Driven by a passion for pure engineering, rigorous R&D, and systems architecture. 
+I design and ship end-to-end AI systems - from research to production.
 
 **Focus areas:**
-- LLM agents & orchestration (LangGraph, ReAct)
+- Controlled Systems and Self-Improving AI Architectures
+- LLM agents & orchestration
 - Retrieval, memory & search (RAG, vector, context)
 - Evaluation, benchmarking, metrics design
 - Feature discovery & signal extraction
 - Time-series forecasting & applied ML
 
-**Stack:** Python · PyTorch · FastAPI · gRPC · Docker · AWS/GCP
+**Stack:** Python/PyTorch · FastAPI/gRPC · uv/Docker · AWS/GCP
 
 <!--
 <img align="left" src="https://github.com/images/mona-whisper.gif" width="40" />
